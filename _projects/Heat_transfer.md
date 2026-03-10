@@ -1,8 +1,8 @@
 [Heat transfer problem set](assets/Problem_set_4.pdf)
 
-<img src=/assets/images/Heat_transfer1.png width="150" alt="Alt Text">
-<img src=/assets/images/Heat_transfer2.png width="150" alt="Alt Text">
-<img src=/assets/images/Heat_transfer3.png width="150" alt="Alt Text">
+<img src=/assets/images/Heat_transfer1.png width="500" alt="Alt Text">
+<img src=/assets/images/Heat_transfer2.png width="500" alt="Alt Text">
+<img src=/assets/images/Heat_transfer3.png width="500" alt="Alt Text">
 
 One assignment I found really valuable was Problem Set 4. It helped me understand how to build and use a thermal resistance network to analyze heat transfer problems.
 Before this assignment, I mostly focused on plugging numbers into equations, but drawing the resistance network helped me visualize how heat actually moves through each layer of the system. 
